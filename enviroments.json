@@ -1,0 +1,18 @@
+{
+    "environments":{
+        "master":{
+            "EC2INSTANCE":"ec2-user@",
+            "Author":"facum"
+        
+        },
+        "develop":{
+            "EC2INSTANCE":"ec2-user@",
+            "Author":"facum"
+        },
+
+        "testing":{
+            "EC2INSTANCE":"ec2-user@",
+            "Author":"facum"
+        }
+    }
+}
